@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Eran Broder/MyFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eran Broder": "brodereran@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Eran Broder/MyFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPod/Classes/**/*"
+}
